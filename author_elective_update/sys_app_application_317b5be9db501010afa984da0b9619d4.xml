@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>need it /test / descritpion&#13;
+new line</description>
+        <device_type>browser</device_type>
+        <hint>need it /test / hint</hint>
+        <name>need it - test</name>
+        <order>100</order>
+        <roles>x_58872_needit.test_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 01:15:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>317b5be9db501010afa984da0b9619d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>need it - main menu</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_317b5be9db501010afa984da0b9619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 01:24:35</sys_updated_on>
+        <title>need it - main menu</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>dad1ec96dbec370052dd2f17d496197c</instance_id>
+        <instance_name>dev78563</instance_name>
+        <name>sys_app_application_317b5be9db501010afa984da0b9619d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>need it /test / descritpion&#13;
+new line</description><device_type>browser</device_type><hint>need it /test / hint</hint><name>need it - test</name><order>100</order><roles>x_58872_needit.test_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-21 01:15:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>317b5be9db501010afa984da0b9619d4</sys_id><sys_mod_count>2</sys_mod_count><sys_name>need it - main menu</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_317b5be9db501010afa984da0b9619d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-21 01:24:35</sys_updated_on><title>need it - main menu</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>856594124</payload_hash>
+        <record_name>need it - main menu</record_name>
+        <reverted_from/>
+        <source>0d28cf69db101010afa984da0b96194f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 01:24:35</sys_created_on>
+        <sys_id>a5addbaddb501010afa984da0b961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1719a563e540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 01:24:35</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>21addbad395010103950f128100c3c35</update_guid>
+        <update_guid_history>21addbad395010103950f128100c3c35:856594124,0eeb532dd95010106312df85881d069a:274296982,797b5be9a45010105ccecedc9bd448d6:-702162476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="need it - main menu">84e0e3a1db901010afa984da0b9619e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 01:38:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0cff8fda9b4841fa9741a2b3ec112f24</sys_id>
+        <sys_metadata>317b5be9db501010afa984da0b9619d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>need it - main menu</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_317b5be9db501010afa984da0b9619d4</sys_update_name>
+        <sys_update_version display_value="sys_app_application_317b5be9db501010afa984da0b9619d4">a5addbaddb501010afa984da0b961935</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 01:38:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
